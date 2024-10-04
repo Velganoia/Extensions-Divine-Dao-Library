@@ -9,6 +9,10 @@
       "ver": "1.0.1"
     },
     {
+      "name": "Divine Dao Library",
+      "ver": "1.0.0"
+    },
+    {
       "name": "dkjson",
       "ver": "1.0.1"
     },
@@ -53,9 +57,19 @@
     {
       "name": "Central Novel",
       "fileName": "CentralNovel",
-      "id": 227675,
+      "id": 223,
       "imageURL": "https://centralnovel.com/wp-content/uploads/2021/06/CENTRAL-NOVEL-LOGO-DARK-.png",
       "lang": "pt",
+      "ver": "1.0.0",
+      "libVer": "1.0.0",
+      "md5": ""
+    },
+    {
+      "name": "Divine Dao Library",
+      "fileName": 'DivineDaoLibrary",
+      "id": 227,
+      "imageURL": "https://github.com/Velganoia/Extensions-Divine-Dao-Library/blob/dev/icons/DivineDaoLibrary.png",
+      "lang": "en",
       "ver": "1.0.0",
       "libVer": "1.0.0",
       "md5": ""
